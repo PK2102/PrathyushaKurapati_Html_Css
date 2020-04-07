@@ -1,0 +1,85 @@
+.signinform
+{
+  height: 100%;
+  width: 400px;
+  margin: 0 auto 0 auto;
+  background-color: #faf4f4;
+  text-align: center;
+
+}
+.signin
+{
+  height: 50px;
+  background-color: #1eb2a6;
+
+}
+input{
+  display: block;
+  margin: auto;
+}
+.mail{
+  margin-top: 50px;
+  width: 300px;
+  height: 23px;
+
+}
+.password{
+  margin-top: 10px;
+  width: 300px;
+  height: 23px;
+}
+.sigin1{
+  margin-top: 20px;
+  background-color: #1eb2a6;
+  width: 300px;
+  height: 30px;
+}
+.forgot-password
+{
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: black;
+}
+.Register{
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: black;
+}
+hr{
+  clear: both;
+  margin-top: 60px;
+  width: 80%;
+}
+.or{
+  background: #faf4f4;
+  width: 30px;
+  margin: -19px auto 20px;
+}
+.facebook{
+  margin-top: 50px;
+  height: 30px;
+  width: 300px;
+  background-color: #4a47a3;
+  color: #fff;
+}
+.google{
+  margin-top: 30px;
+  height: 30px;
+  width: 300px;
+  background-color: red;
+  color: #fff;
+}
+.epamlogin
+{
+  margin-top: 50px;
+  margin-bottom: 0;
+  height: 30px;
+  width: 300px;
+  background-color: #ffe75e;
+}
+@media screen and (min-width:320px) and (max-width:500px) {}
+@media screen and (min-width:501px) and (max-width:780px) {}
